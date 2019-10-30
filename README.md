@@ -19,3 +19,9 @@
 ## Notes
 This is a relatively simple classifier with less than 100k of training data.
 You can use bigger dataset or custom feature extraction to improve accuracy.
+
+### Resources
+- https://scikit-learn.org/stable/modules/feature_extraction.html
+- https://github.com/Jcharis/Python-Machine-Learning/blob/master/Gender%20Classification%20With%20%20Machine%20Learning/Gender%20Classification%20of%20Names%20With%20Machine%20Learning.ipynb 
+
+- Thank you to Jcharis for code. https://github.com/Jcharis. Check out him for more. 
